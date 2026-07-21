@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Diksha57-git/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Diksha57-git/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Diksha57-git/DSA/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/Diksha57-git/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diksha57-git/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Diksha57-git/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2460-apply-operations-to-an-array](https://github.com/Diksha57-git/DSA/tree/master/2460-apply-operations-to-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Diksha57-git/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Diksha57-git/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
