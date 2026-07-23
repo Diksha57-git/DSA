@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Diksha57-git/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Diksha57-git/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Diksha57-git/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1920-build-array-from-permutation](https://github.com/Diksha57-git/DSA/tree/master/1920-build-array-from-permutation) |
 | [2460-apply-operations-to-an-array](https://github.com/Diksha57-git/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1920-build-array-from-permutation](https://github.com/Diksha57-git/DSA/tree/master/1920-build-array-from-permutation) |
 | [2460-apply-operations-to-an-array](https://github.com/Diksha57-git/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Binary Search
 |  |
