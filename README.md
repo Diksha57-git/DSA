@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Diksha57-git/DSA/tree/master/0189-rotate-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Diksha57-git/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Database
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Diksha57-git/DSA/tree/master/1672-richest-customer-wealth) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Diksha57-git/DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
