@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Diksha57-git/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Diksha57-git/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Diksha57-git/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Diksha57-git/DSA/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Diksha57-git/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Diksha57-git/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Diksha57-git/DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Diksha57-git/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Diksha57-git/DSA/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Diksha57-git/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Diksha57-git/DSA/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Diksha57-git/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Diksha57-git/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Diksha57-git/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Diksha57-git/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Diksha57-git/DSA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Diksha57-git/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Diksha57-git/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Diksha57-git/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Diksha57-git/DSA/tree/master/0242-valid-anagram) |
